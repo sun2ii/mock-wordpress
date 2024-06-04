@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mock-wordpress/static/css/main.81e7174c.css",
-    "main.js": "/mock-wordpress/static/js/main.f00917d7.js",
-    "static/js/828.b3d3c596.chunk.js": "/mock-wordpress/static/js/828.b3d3c596.chunk.js",
-    "index.html": "/mock-wordpress/index.html",
-    "main.81e7174c.css.map": "/mock-wordpress/static/css/main.81e7174c.css.map",
-    "main.f00917d7.js.map": "/mock-wordpress/static/js/main.f00917d7.js.map",
-    "828.b3d3c596.chunk.js.map": "/mock-wordpress/static/js/828.b3d3c596.chunk.js.map"
+    "main.css": "/static/css/main.81e7174c.css",
+    "main.js": "/static/js/main.2e1aa338.js",
+    "static/js/828.b3d3c596.chunk.js": "/static/js/828.b3d3c596.chunk.js",
+    "index.html": "/index.html",
+    "main.81e7174c.css.map": "/static/css/main.81e7174c.css.map",
+    "main.2e1aa338.js.map": "/static/js/main.2e1aa338.js.map",
+    "828.b3d3c596.chunk.js.map": "/static/js/828.b3d3c596.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81e7174c.css",
-    "static/js/main.f00917d7.js"
+    "static/js/main.2e1aa338.js"
   ]
 }
